@@ -1,11 +1,3 @@
-/*
-Name: Youssef Moustafa Ahmed
-ID: 20200673
-
-Name: Moustafa Saeed Abdelhamid
-ID: 20201166
-*/
-
 #include <iostream>
 #include <fstream>
 #include <string>
